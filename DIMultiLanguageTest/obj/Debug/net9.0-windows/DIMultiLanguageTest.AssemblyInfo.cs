@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIMultiLanguageTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4636a97cc215349665b84dcde5b5095e961adbbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIMultiLanguageTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIMultiLanguageTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
