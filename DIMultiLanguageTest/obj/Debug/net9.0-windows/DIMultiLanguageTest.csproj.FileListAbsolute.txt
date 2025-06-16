@@ -31,3 +31,4 @@ C:\Users\moriyaki\source\repos\csharp\DIMultiLanguageTest\DIMultiLanguageTest\ob
 C:\Users\moriyaki\source\repos\csharp\DIMultiLanguageTest\DIMultiLanguageTest\obj\Debug\net9.0-windows\DIMultiLanguageTest.pdb
 C:\Users\moriyaki\source\repos\csharp\DIMultiLanguageTest\DIMultiLanguageTest\obj\Debug\net9.0-windows\DIMultiLanguageTest.genruntimeconfig.cache
 C:\Users\moriyaki\source\repos\csharp\DIMultiLanguageTest\DIMultiLanguageTest\obj\Debug\net9.0-windows\ref\DIMultiLanguageTest.dll
+C:\Users\moriyaki\source\repos\csharp\DIMultiLanguageTest\DIMultiLanguageTest\obj\Debug\net9.0-windows\DIMultiLanguageTest.sourcelink.json
